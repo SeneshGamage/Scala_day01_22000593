@@ -1,0 +1,8 @@
+package Scala
+
+object cs22000593 {
+  def main(args:Array[String])
+  {
+    println("hello")
+  }
+}
